@@ -1,4 +1,5 @@
 # Insight-Data-Analyst-PT.-Tumbuh-Bersama
+Periode Jan sd Dec
 by Excel Dashboard
 
 Here's PT. TUMBUH BERSAMA's Excel Dashboard Insight
